@@ -13,29 +13,39 @@
         body {
             font-family: Arial;
             text-align: center;
+        }
 
+        h1 {
+            margin-top: 75px;
+        }
+
+        h2 {
+            border-bottom: solid 1px black;
+            padding-bottom: 10px;
         }
 
         .container {
             display: flex;
-            justify-content: center;
+            justify-content: space-around;
             gap: 30px;
-            margin-top: 50px;
+            margin-top: 150px;
         }
+
         .card {
             border-radius: 8px;
             width: 300px;
-            padding: 20px; 
+            padding: 20px;
             border: solid 1px black;
         }
-        .button {
+
+        button {
             background-color: #2c6faa;
             color: white;
-            padding: 10px 20px;
-            border-radius: 5px; 
-
+            padding: 10px 30px;
+            border-radius: 5px;
+            border: none;
         }
-    </style>    
+    </style>
 </head>
 
 <body>
