@@ -59,7 +59,7 @@
         }
         p {
             padding: 15px;  
-            font-size: 1.3rem;
+            font-size: 1.3rem;  
         }
         .titulo, .texto {
             margin: 0;  
