@@ -1,7 +1,6 @@
 <?php
-
+    //comenta
 ?>
-
 <!DOCTYPE html>
 <html lang="pt-br">
 
